@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="DataSetHoaDon" targetNamespace="http://tempuri.org/DataSetHoaDon.xsd" xmlns:mstns="http://tempuri.org/DataSetHoaDon.xsd" xmlns="http://tempuri.org/DataSetHoaDon.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="DataSetHoaDon" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="DataSetHoaDon" msprop:Generator_UserDSName="DataSetHoaDon">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="DataTable1" msprop:Generator_TableClassName="DataTable1DataTable" msprop:Generator_TableVarName="tableDataTable1" msprop:Generator_TablePropName="DataTable1" msprop:Generator_RowDeletingName="DataTable1RowDeleting" msprop:Generator_RowChangingName="DataTable1RowChanging" msprop:Generator_RowEvHandlerName="DataTable1RowChangeEventHandler" msprop:Generator_RowDeletedName="DataTable1RowDeleted" msprop:Generator_UserTableName="DataTable1" msprop:Generator_RowChangedName="DataTable1RowChanged" msprop:Generator_RowEvArgName="DataTable1RowChangeEvent" msprop:Generator_RowClassName="DataTable1Row">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="maphieu" msprop:Generator_ColumnVarNameInTable="columnmaphieu" msprop:Generator_ColumnPropNameInRow="maphieu" msprop:Generator_ColumnPropNameInTable="maphieuColumn" msprop:Generator_UserColumnName="maphieu" type="xs:string" minOccurs="0" />
+              <xs:element name="HoTenKH" msprop:Generator_ColumnVarNameInTable="columnHoTenKH" msprop:Generator_ColumnPropNameInRow="HoTenKH" msprop:Generator_ColumnPropNameInTable="HoTenKHColumn" msprop:Generator_UserColumnName="HoTenKH" type="xs:string" minOccurs="0" />
+              <xs:element name="TenPhong" msprop:Generator_ColumnVarNameInTable="columnTenPhong" msprop:Generator_ColumnPropNameInRow="TenPhong" msprop:Generator_ColumnPropNameInTable="TenPhongColumn" msprop:Generator_UserColumnName="TenPhong" type="xs:string" minOccurs="0" />
+              <xs:element name="MaPhong" msprop:Generator_ColumnVarNameInTable="columnMaPhong" msprop:Generator_ColumnPropNameInRow="MaPhong" msprop:Generator_ColumnPropNameInTable="MaPhongColumn" msprop:Generator_UserColumnName="MaPhong" type="xs:string" minOccurs="0" />
+              <xs:element name="sodem" msprop:Generator_ColumnVarNameInTable="columnsodem" msprop:Generator_ColumnPropNameInRow="sodem" msprop:Generator_ColumnPropNameInTable="sodemColumn" msprop:Generator_UserColumnName="sodem" type="xs:decimal" minOccurs="0" />
+              <xs:element name="TenDV" msprop:Generator_ColumnVarNameInTable="columnTenDV" msprop:Generator_ColumnPropNameInRow="TenDV" msprop:Generator_ColumnPropNameInTable="TenDVColumn" msprop:Generator_UserColumnName="TenDV" type="xs:string" minOccurs="0" />
+              <xs:element name="MaDV" msprop:Generator_ColumnVarNameInTable="columnMaDV" msprop:Generator_ColumnPropNameInRow="MaDV" msprop:Generator_ColumnPropNameInTable="MaDVColumn" msprop:Generator_UserColumnName="MaDV" type="xs:string" minOccurs="0" />
+              <xs:element name="soluong" msprop:Generator_ColumnVarNameInTable="columnsoluong" msprop:Generator_ColumnPropNameInRow="soluong" msprop:Generator_ColumnPropNameInTable="soluongColumn" msprop:Generator_UserColumnName="soluong" type="xs:decimal" minOccurs="0" />
+              <xs:element name="thanhtien" msprop:Generator_ColumnVarNameInTable="columnthanhtien" msprop:Generator_ColumnPropNameInRow="thanhtien" msprop:Generator_ColumnPropNameInTable="thanhtienColumn" msprop:Generator_UserColumnName="thanhtien" type="xs:decimal" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

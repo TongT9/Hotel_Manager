@@ -1,0 +1,405 @@
+D:\a\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.Cache
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\mscorlib.dll
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\System.Net.Http.dll
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\System.Net.Http.xml
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\normidna.nlp
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\normnfc.nlp
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\normnfd.nlp
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\normnfkc.nlp
+F:\a\a\DoAnQuanLyKhachSan\bin\Debug\normnfkd.nlp
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+F:\a\a\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csprojResolveAssemblyReference.cache
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csprojAssemblyReference.cache
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.ReportHoaDon.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+D:\computer\đồ án chuyên ngành\dcmmtong\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\AxShockwaveFlashObjects.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\computer\đồ án chuyên ngành\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\dcmmduy\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormReportHoaDon.resources
+C:\Users\USER\Downloads\dcmmduyaaa\dcmmduy\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormReportHoaDon.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\dcmmduyvippro\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormBill.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.FormNoiQuy.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormBill.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormReportHoaDon.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\dcmmduyvippro\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.FormNoiQuy.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormBill.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormReportHoaDon.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+C:\Users\Admin\Desktop\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csprojAssemblyReference.cache
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.FormNoiQuy.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormBill.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormReportHoaDon.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
+D:\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe.config
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.exe
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\DoAnQuanLyKhachSan.pdb
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\ShockwaveFlashObjects.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\stdole.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.AssemblyReference.cache
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.SuggestedBindingRedirects.cache
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormChucVu.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDangNhap.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormKhachHang.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormDoiMatKhau.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormHoaDon.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormLoaiPhong.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormMeNu.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormNhanVien.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.FormNoiQuy.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDangky.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhieuDichVu.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormPhong.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.FormTaiKhoan.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmbooking.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.GUI.frmchitietphong.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Properties.Resources.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormBill.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Report.FormReportHoaDon.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.Thống_Kê.frm_thongkedoanhthu.resources
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.GenerateResource.cache
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CoreCompileInputs.cache
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.csproj.CopyComplete
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.exe
+D:\windown\computer\đồ án chuyên ngành\đồ án chuyên nghành bản Full\Đồ án VIP\DoAnQuanLyKhachSan\obj\Debug\DoAnQuanLyKhachSan.pdb
